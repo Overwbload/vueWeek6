@@ -1,20 +1,11 @@
 <template>
   <div class="home">
-    <h1>Hello, This is Home Page.</h1>
-    <RouterLink to="/">Home</RouterLink> |
-    <RouterLink to="/about">About</RouterLink>
-    <hr>
-    <HelloWorld />
+    <h1 class="text-center">Hello, This is Home Page.</h1>
   </div>
 </template>
 
 <script>
-import HelloWorld from '@/components/HelloWorld.vue'
-
 export default {
-  components: {
-    HelloWorld
-  }
 }
 </script>
 
