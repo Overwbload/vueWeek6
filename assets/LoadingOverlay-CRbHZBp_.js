@@ -1,1 +1,0 @@
-import{_ as o,r as a,o as n,i as t,w as r,a as s}from"./index-Dvp9cMEx.js";const c=""+new URL("icegif--ubZv4Mn.gif",import.meta.url).href,i={},_=s("img",{class:"loader",src:c,alt:"Custom Loading Icon"},null,-1);function l(d,m){const e=a("LoadingOverlay",!0);return n(),t(e,null,{default:r(()=>[_]),_:1})}const u=o(i,[["render",l]]);export{u as L};
