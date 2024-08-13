@@ -66,15 +66,15 @@ export default {
   data () {
     return {
       products: [], // 產品內容
-      productDetail: {},
+      productDetail: {}, // 查看更多
       pagination: {}, // 分頁
-      cart: {
+      cart: { // 購物車
         carts: []
-      }, // 購物車
-      loadingStatus: {
+      },
+      loadingStatus: { // 讀取ICON
         loadingItem: ''
       },
-      loadingComponent: true
+      loadingComponent: true // 讀取動圖
     }
   },
   methods: {

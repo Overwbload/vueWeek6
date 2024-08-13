@@ -12,7 +12,7 @@
             <i class="bi bi-cart4"></i>
           </RouterLink>
           <span class="separator">|</span>
-          <RouterLink to="/admin" class="nav-link">後台購物車列表</RouterLink>
+          <RouterLink to="/dashboard/adminProduct" class="nav-link">後台購物車列表</RouterLink>
         </div>
       </div>
     </div>

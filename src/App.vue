@@ -28,4 +28,8 @@ export default {}
     background-size: 100% 100%
   }
 }
+
+span.page-link {
+  background-color: rgb(181, 232, 181) ;
+}
 </style>

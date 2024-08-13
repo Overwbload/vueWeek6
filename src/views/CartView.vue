@@ -132,7 +132,8 @@ export default {
           address: ''
         },
         message: ''
-      }
+      },
+      coupon_code: ''
     }
   },
   methods: {
