@@ -6,7 +6,7 @@
 export default {}
 </script>
 
-<style lang="scss">
+<style>
 .loader {
   width: 120px;
   aspect-ratio: 1;

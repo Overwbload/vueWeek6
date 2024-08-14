@@ -41,7 +41,7 @@ export default {
   },
   methods: {
     getLogin () {
-      const url = `${VITE_APP_API_URL}/v2/admin/signin`
+      const url = `${VITE_APP_API_URL}/admin/signin`
       this.$http.post(url, this.user)
         .then((res) => {
           const { token, expired, message } = res.data // 取得API回傳的token&expired&message
