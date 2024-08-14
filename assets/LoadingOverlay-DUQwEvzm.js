@@ -1,0 +1,1 @@
+import{_ as o,r as s,o as a,i as n,w as t,a as c}from"./index-CWcciaOD.js";const r="/vueWeek6/assets/icegif--ubZv4Mn.gif",_={},i=c("img",{class:"loader",src:r,alt:"Custom Loading Icon"},null,-1);function l(d,u){const e=s("LoadingOverlay",!0);return a(),n(e,null,{default:t(()=>[i]),_:1})}const m=o(_,[["render",l]]);export{m as L};
