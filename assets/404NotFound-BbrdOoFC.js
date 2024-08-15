@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as n,F as c,a as e}from"./index-Bv1ygyXE.js";const r={},s=e("h1",null,"error:404",-1),a=e("h2",null,"你迷路囉",-1);function _(l,d){return t(),n(c,null,[s,a],64)}const f=o(r,[["render",_]]);export{f as default};
